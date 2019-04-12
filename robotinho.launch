@@ -1,0 +1,6 @@
+<launch>
+  <node name="recognizer" pkg="pocketsphinx" type="recognizer.py" output="screen">
+    <param name="lm" value="$(find beginner_tutorials)/demo/Projectstuff/robotinho.lm"/>
+    <param name="dict" value="$(find beginner_tutorials)/demo/Projectstuff/robotinho.dic"/>
+  </node>
+</launch>

@@ -1,5 +1,5 @@
 # Robotinho
-The Soccer Playing Robot (Abdul Samad, Zach Ballard, Devante Saenger
+The Soccer Playing Robot (Abdul Samad, Zach Ballard, Devante Saenger)
 We had numerous ideas to start with for this project, but quickly decided on
 a soccer playing robot, Robotinho, since we all have a passion for a
 superstar named Ronaldinho. Our goal was to complete simple soccer drills
